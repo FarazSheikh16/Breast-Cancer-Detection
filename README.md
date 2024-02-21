@@ -1,4 +1,4 @@
-# Mammography_On_Minimias
+# Breast Cancer Detection in Mammograms using Vision Transformers
 
 The goal of this project detect Breast Cancer on Mammograms using the Vision Transformer (ViT) architecture. The dataset used for this task is the MINIMias dataset, containing grayscale medical images. The project involves training a ViT model on this dataset and evaluating its performance through a 5-fold cross-validation approach.
 ## Details of Project Working:

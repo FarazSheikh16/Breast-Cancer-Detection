@@ -1,6 +1,6 @@
 # Mammography_On_Minimias
 
-The goal of this project is to develop a deep learning model for the classification of medical images using the Vision Transformer (ViT) architecture. The dataset used for this task is the MINIMias dataset, containing grayscale medical images. The project involves training a ViT model on this dataset and evaluating its performance through a 5-fold cross-validation approach.
+The goal of this project detect Breast Cancer on Mammograms using the Vision Transformer (ViT) architecture. The dataset used for this task is the MINIMias dataset, containing grayscale medical images. The project involves training a ViT model on this dataset and evaluating its performance through a 5-fold cross-validation approach.
 ## Details of Project Working:
 - Dataset consists of 2 classes, Benign and Malignant. 
 - We train a ViT model on the MiniMIAS dataset.
